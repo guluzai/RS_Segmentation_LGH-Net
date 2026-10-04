@@ -4,4 +4,4 @@ This repository hosts the official implementation of LGH-Net for SAR ship segmen
 
 ## Status
 The code and trained models are currently being cleaned and organized. 
-**The complete code will be released upon publication of the paper.**
+**The complete code will be released after being finalized.**
